@@ -10,7 +10,7 @@ Steps to start the project <br/>
   <li><code>npm start</code></li>
 </ul>
 
-### 👀 If you have "Expo Go" app you can view the project on your phone by scanning the qr code at terminal.
+### 👀 If you have "Expo Go" app you can view the project on your phone by scanning the qr code at terminal. 🤳🏼
 
 
 
