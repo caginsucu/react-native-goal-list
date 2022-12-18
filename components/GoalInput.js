@@ -25,11 +25,11 @@ function GoalInput({ onAddGoal, visible, onCancel }) {
       <View style={styles.inputContainer}>
         <Image
           style={styles.image}
-          source={require("../assets/images/goal.png")}
+          source={require("../assets/images/santa.png")}
         />
         <TextInput
           style={styles.textInput}
-          placeholder="What is your goal ?"
+          placeholder="What is your goal for new year ?"
           placeholderTextColor={"#383838"}
           value={enteredGoalText}
           onChangeText={goalInputHandler}
